@@ -19,7 +19,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program
 ```
-Name: DEVADARSHAN A S
+DEVELOPED BY : DEVADARSHAN A S
 Reg: 21222211007
 ```
 ```python
